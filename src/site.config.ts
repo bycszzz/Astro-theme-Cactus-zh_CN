@@ -28,19 +28,19 @@ export const menuLinks: { path: string; title: string }[] = [
   // 修改：改为中文
 	{
 		path: "/",
-		title: "主页",
+		title: "Home",
 	},
 	{
 		path: "/about/",
-		title: "关于",
+		title: "About",
 	},
 	{
 		path: "/posts/",
-		title: "博客",
+		title: "Writing",
 	},
 	{
 		path: "/notes/",
-		title: "笔记",
+		title: "notes",
 	},
 ];
 
